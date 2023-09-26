@@ -1,0 +1,1 @@
+This is a frontend challenge project to create a newsletter web page using Frontend mentor licensed design.
